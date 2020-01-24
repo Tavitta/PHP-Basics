@@ -1,0 +1,8 @@
+<?php
+
+$a = intval(readline());
+
+$area = $a*$a;
+
+echo $area;
+

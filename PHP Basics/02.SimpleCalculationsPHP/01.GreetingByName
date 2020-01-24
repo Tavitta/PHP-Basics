@@ -1,0 +1,9 @@
+<?php
+
+$name = readline();
+
+//  echo "Hello, $name!";
+
+$placeholder = sprintf("Hello, %s!", $name);
+
+    echo "$placeholder";
